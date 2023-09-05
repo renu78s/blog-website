@@ -1,0 +1,1 @@
+export const url = "https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=kfZOyEeMluvdmSyMj8H10hqr5ZRLHYq0" ;
